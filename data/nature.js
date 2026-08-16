@@ -1,0 +1,23 @@
+// NATURE_PHOTOS: Nature category, 20 photo slots. Each slot is null (empty) or {src, number, updated} once filled.
+const NATURE_PHOTOS = [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+];
